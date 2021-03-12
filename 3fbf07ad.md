@@ -1,6 +1,7 @@
 ---
 title: Zettelkasten
 date: 2021-03-08T08:04
+slug: zettelkasten
 tags: 
   - zettelkasten
 ---
