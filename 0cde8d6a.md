@@ -15,18 +15,18 @@ Exempel:
 Vi har en variabel, `debounce`, som vi vill logga. På klassiskt vis skulle man
 göra något i den här stilen:<br>
 
-`
+```typescript
 const debounce = 300
 console.log('debounce', debounce)
-`
+```
 
 och då få ut `debounce 300` i konsolen. Med destructuring kan man göra såhär
 istället:<br>
 
-`
+```typescript
 const debounce = 300
 console.log({ debounce })
-`
+```
 
 och få ut `{debounce: 300}` i konsolen, dvs man får med både värdet och variabelnamnet.
 
