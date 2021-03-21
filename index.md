@@ -39,3 +39,13 @@ date: 2021-03-07T09:07
 ## js/ts
 
 - [[[0cde8d6a]]]
+
+
+## internetz
+
+- [[[a474eae3]]]
+
+
+## infosec
+
+- [[[25f8aab8]]]
