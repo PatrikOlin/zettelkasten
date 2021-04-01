@@ -53,6 +53,11 @@ date: 2021-03-07T09:07
 - [[[25f8aab8]]]
 
 
+## kuriosa
+
+- [[[19e6162e]]]
+
+
 ## studynotes
 
 - [[[96ed2ccd]]]
