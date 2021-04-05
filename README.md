@@ -1,1 +1,1 @@
-#  new zettelkasten who dis?
+# Zettel-what!?
