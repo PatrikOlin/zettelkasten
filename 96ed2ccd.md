@@ -16,5 +16,10 @@ En coursera-kurs om lärande och hur man effektivt lär sig nya saker.
 ### Week 1
 [[[8a71ae88]]]
 
+
 ### Week 2
 [[[d5c14730]]]
+
+
+### Week 3
+[[[9013b6db]]]
