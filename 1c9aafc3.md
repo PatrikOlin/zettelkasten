@@ -4,8 +4,10 @@ date: 2021-05-04T08:54
 tags: 
   - games
   - game ideas
+  - game dev
   - floskler
   - roguelike
+  - corpospeak
 ---
 
 ## Overview
@@ -37,3 +39,7 @@ Istället för att ha en level som ökar när du blir starkare har du kanske en
 budget som du befogar över?
 
 Prototyp https://tredagens.itch.io/roguelike
+
+
+karaktärsnamn:
+Manuel Count
